@@ -96,3 +96,68 @@
         }
     }
 }
+
+.ccFooter {
+    background-color: #3259e8;
+    color: #fff;
+    font-size: 1.125rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.pcArtikel {
+    width: 80%;
+    margin: 30px auto;
+    display: flex;
+
+    .FilterContainer {
+        width: 20%;
+    }
+
+    .ArtikelContainer {
+        width: 80%;
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+
+        .ccSchnittmuster {
+            width: 320px;
+            height: 447px;
+            cursor: pointer;
+            border-radius: 4px;
+            box-shadow: 1px 1px 0px 0px rgba(0, 0, 0, .3);
+            transition: box-shadow .2s ease-in-out;
+
+            div {
+                margin: 15px;
+                height: 90px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+
+            img {
+                width: 320px;
+                height: 320px;
+                border-radius: 4px 4px 0px 0px;
+                object-fit: cover;
+            }
+
+            .pdfIcon {
+                font-size: 25px;
+            }
+
+            &:hover {
+                box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, .3);
+            }
+        }
+    }
+
+
+    box-Shadow {
+        transition-property: box-shadow;
+        transition-duration: 0.2s;
+        transition-timing-function: ease-in-out;
+        transition-delay: 0s;
+    }
+}
