@@ -33,15 +33,47 @@
             display: flex;
             justify-content: space-between;
 
-            .HeaderSearchBar {
+            .ccSearchBar {
                 position: absolute;
-                top: 50%; // calc Funktion muss noch rein
+                top: calc(50% - 20px);
+
+                input {
+                    height: 40px;
+                    width: 208px;
+                    border: none;
+                    border-radius: 40px;
+                    display: flex;
+                    line-height: 1rem;
+                    position: relative;
+                    box-shadow: -2px -2px 2px 0 hsla(0, 0%, 52.9%, .2), 2px 2px 2px 0 rgba(15, 15, 15, .33);
+                    outline: none;
+                    padding-left: 40px;
+                }
+
+                .SearchBarIcon {
+                    font-size: 15px;
+                    position: absolute;
+                    top: calc(50% - 7.5px);
+                    left: 10px;
+                }
             }
 
             .HeaderLogo {
+                width: 250px;
+                height: 85px;
                 position: absolute;
-                top: 50%; // calc Funktion muss noch rein
-                left: 50%; // calc Funktion muss noch rein
+                z-index: 1000;
+                top: calc(50% - 42.5px); // calc Funktion muss noch rein
+                left: calc(50% - 125px); // calc Funktion muss noch rein
+            }
+
+            .HeaderLogoShadow {
+                width: 250px;
+                height: 85px;
+                position: absolute;
+                z-index: 900;
+                top: calc(50% - 41.5px); // calc Funktion muss noch rein
+                left: calc(50% - 125px); // calc Funktion muss noch rein
             }
         }
 
