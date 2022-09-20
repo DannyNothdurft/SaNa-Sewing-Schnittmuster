@@ -1,9 +1,12 @@
 import React from "react";
 
+// components
+import Menu from "./Menu";
+
 function App() {
   return (
-    <div className="App">
-      <h1>Hier endsteht eine neue Webseite</h1>
+    <div>
+      <Menu />
     </div>
   );
 }

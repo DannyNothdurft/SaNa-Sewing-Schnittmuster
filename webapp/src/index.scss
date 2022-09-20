@@ -1,3 +1,66 @@
-h1 {
-    text-transform: uppercase;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.ccMenu {
+    .ccBlackBar {
+        background-color: #000;
+        color: #fff;
+        height: 2rem;
+        line-height: 2rem;
+        font-size: .875rem;
+        text-transform: uppercase;
+
+        .BlackBarInfo {
+            margin: 0 auto;
+            max-width: 80rem;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+
+    .ccHeader {
+        background-image: url(./sorce/BackgroundHeader.jpg);
+        height: 120px;
+        position: relative;
+
+        .HeaderContent {
+            margin: 0 auto;
+            max-width: 80rem;
+            display: flex;
+            justify-content: space-between;
+
+            .HeaderSearchBar {
+                position: absolute;
+                top: 50%; // calc Funktion muss noch rein
+            }
+
+            .HeaderLogo {
+                position: absolute;
+                top: 50%; // calc Funktion muss noch rein
+                left: 50%; // calc Funktion muss noch rein
+            }
+        }
+
+    }
+
+    .ccNavTabBar {
+        background-color: #fff;
+        color: #000;
+        height: 2rem;
+        line-height: 2rem;
+        font-size: .875rem;
+        text-transform: uppercase;
+        box-shadow: 0 4px 5px -2px rgba(0, 0, 0, .16);
+
+        .NavTabBarContent {
+            margin: 0 auto;
+            max-width: 80rem;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
 }
