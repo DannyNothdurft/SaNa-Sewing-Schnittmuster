@@ -1,10 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function NavTabBar() {
+
+    // Eventuell wird diese Navigation als Filter dienen
     return (
         <div className='ccNavTabBar'>
             <div className='NavTabBarContent'>
-                <p>Hier kommen die Menüs</p>
+                <Link to='/'>Schnittmuster</Link>
             </div>
         </div>
     );
