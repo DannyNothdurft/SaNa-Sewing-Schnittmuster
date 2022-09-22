@@ -5,11 +5,14 @@ import SearchBar from './SearchBar';
 import Logo from '../../sorce/SaNaLogo.png';
 import LogoShadow from '../../sorce/SaNaLogoShadow.png';
 
-function Header() {
+function Header({ handleChange, handleSubmitClick }) {
     return (
         <div className='ccHeader'>
             <div className='HeaderContent'>
-                <SearchBar />
+                <SearchBar
+                    handleChange={handleChange}
+                    handleSubmitClick={handleSubmitClick}
+                />
                 <img src={Logo} alt="SaNa Sewing Handmade Logo" className='HeaderLogo' />
                 <img src={LogoShadow} alt="SaNa Sewing Handmade LogoShadow" className='HeaderLogoShadow' />
             </div>

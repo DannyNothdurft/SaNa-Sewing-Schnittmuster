@@ -4,7 +4,7 @@ import React from 'react';
 import FilterStrip from '../components/ArtikelComponents/FilterStrip';
 import Schnittmuster from '../components/ArtikelComponents/Schnittmuster';
 
-function Artikel() {
+function Artikel({ data }) {
   return (
     <div className='pcArtikel'>
 
@@ -13,17 +13,11 @@ function Artikel() {
       </div>
 
       <div className='ArtikelContainer'>
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
-        <Schnittmuster />
+        {data.map(muster => (
+          <li key={muster.id}>
+            <Schnittmuster muster={muster} />
+          </li>
+        ))}
       </div>
 
     </div>

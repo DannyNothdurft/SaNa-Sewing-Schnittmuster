@@ -1,11 +1,13 @@
 import React from 'react';
 import { BsSearch } from 'react-icons/bs';
 
-function SearchBar() {
+function SearchBar({ handleChange, handleSubmitClick }) {
     return (
         <div className='ccSearchBar'>
-            <input type="text" />
-            <BsSearch className='SearchBarIcon' />
+            <form onSubmit={handleSubmitClick}>
+                <input type="text" onChange={handleChange} />
+                <BsSearch className='SearchBarIcon' />
+            </form>
         </div>
     );
 }

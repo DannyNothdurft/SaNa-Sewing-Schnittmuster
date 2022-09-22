@@ -2,14 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { GrDocumentPdf } from 'react-icons/gr'
 
-function Schnittmuster() {
+function Schnittmuster({ muster }) {
     return (
-        <Link to="artikel">
+        <Link to={{
+            pathname: `/artikel/${muster.id}`,
+        }}>
             <div className='ccSchnittmuster'>
-                <img src="https://storage.makerist.de/uploads/pattern/97107/featured_image/thumbnail_featured_image_48078378.jpg" alt="Artikel Bild" />
+                <img src={muster.images} alt={`Product bild von ${muster.product}`} />
                 <div>
-                    <h3>Schnittmuster Name</h3>
-                    <h6>Schnittmuster Designer</h6>
+                    <h3>{muster.product}</h3>
+                    <h6>{muster.designer}</h6>
                     <GrDocumentPdf className='pdfIcon' />
                 </div>
             </div>

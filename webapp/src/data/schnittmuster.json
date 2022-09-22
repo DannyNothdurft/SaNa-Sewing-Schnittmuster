@@ -1,0 +1,53 @@
+[
+    {
+        "id": "3a6d0004-2307-459d-a413-8a11a0d8d6d1",
+        "product": "Long Hoodie",
+        "designer": "Schneiderline",
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            128,
+            140,
+            152,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/534010/large_avatar_af955504.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "download": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "images": "https://storage.makerist.de/uploads/pattern/86080/featured_image/featured_image_ebe4456f.jpg"
+    },
+    {
+        "id": "374a371e-5036-4134-8fe2-8cbb34b9e7bc",
+        "product": "Babybody Taylor",
+        "designer": "Engelinchen Design",
+        "size": [
+            50,
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/274668/large_avatar_c93882de.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "download": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "images": "https://storage.makerist.de/uploads/pattern/56818/featured_image/featured_image_a7e462e6.jpg"
+    },
+    {
+        "id": "54b14afa-448a-45ef-885e-5ae76a5da0de",
+        "product": "Pusteblume für Jersey: Body für Babys und Kinder",
+        "designer": "Firlefanz",
+        "size": [],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/483789/large_avatar_69d32f76.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "download": "https://storage.makerist.de/uploads/pattern/86080/tutorial_preview/Longhoodie_Blick_ins_Buch.pdf",
+        "images": "https://storage.makerist.de/uploads/pattern/81040/featured_image/featured_image_f0a22ef6.jpg"
+    }
+]
