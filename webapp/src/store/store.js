@@ -3,6 +3,6 @@ import counterReducer from '../reducer/counterSlice';
 
 export default configureStore({
     reducer: {
-        counter: counterReducer
+        schnittmuster: counterReducer
     }
 })
