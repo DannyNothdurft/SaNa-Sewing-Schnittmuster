@@ -11,9 +11,29 @@ import Artikel from "../pages/Artikel";
 import SingleArtikel from "../pages/SingleArtikel";
 import Footer from "./Footer";
 
+/*
+<div>
+      <div>
+        <button
+          aria-label="Increment value"
+          onClick={() => dispatch(increment())}
+        >
+          Increment
+        </button>
+        <span>{count}</span>
+        <button
+          aria-label="Decrement value"
+          onClick={() => dispatch(decrement())}
+        >
+          Decrement
+        </button>
+      </div>
+    </div>
+ */
 
 function App() {
   const count = useSelector(state => state.counter.value);
+  const dispatch = useDispatch()
 
   const [data, setData] = useState(dataMuster);
   const [suche, setSuche] = useState([]);
