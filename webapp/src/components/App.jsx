@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
+import { useSelector, useDispatch } from 'react-redux';
+import { decrement, increment } from '../reducer/counterSlice';
+
 // components, pages & Data
 import dataMuster from '../data/schnittmuster.json';
 import Menu from "./Menu";
@@ -10,6 +13,7 @@ import Footer from "./Footer";
 
 
 function App() {
+  const count = useSelector(state => state.counter.value);
 
   const [data, setData] = useState(dataMuster);
   const [suche, setSuche] = useState([]);
@@ -59,7 +63,7 @@ function App() {
         handleSubmitClick={handleSubmitClick}
       />
       <Routes>
-        <Route path="/" element={<Artikel data={filter} />} />
+        <Route path="/" element={<Artikel data={count} />} />
         <Route path="/artikel/:id" element={<SingleArtikel />} />
       </Routes >
       <Footer />
