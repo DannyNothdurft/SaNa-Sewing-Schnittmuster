@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../reducer/counterSlice';
+import schnittmusterReducer from '../reducer/schnittmusterSlice';
 
 export default configureStore({
     reducer: {
-        schnittmuster: counterReducer
+        schnittmuster: schnittmusterReducer
     }
 })

@@ -1,13 +1,24 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+// data & reducer
+import { useDispatch } from 'react-redux';
+import { resetet, setGender } from '../../reducer/schnittmusterSlice';
+import data from '../../data/schnittmuster.json';
+
 function NavTabBar() {
 
-    // Eventuell wird diese Navigation als Filter dienen
+    const dispatch = useDispatch();
+
+    const resetFilter = () => {
+        dispatch(resetet(data))
+        dispatch(setGender(""));
+    }
+
     return (
         <div className='ccNavTabBar'>
             <div className='NavTabBarContent'>
-                <Link to='/'>Schnittmuster</Link>
+                <Link to='/' onClick={resetFilter}>Schnittmuster</Link>
             </div>
         </div>
     );

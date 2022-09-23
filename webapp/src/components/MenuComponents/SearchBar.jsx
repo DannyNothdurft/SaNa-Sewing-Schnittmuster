@@ -1,12 +1,15 @@
 import React, { useState } from 'react';
-import dataMuster from '../../data/schnittmuster.json';
 import { BsSearch } from 'react-icons/bs';
+
+// data & reducer
 import { useDispatch, useSelector } from 'react-redux';
-import { decrement, setfilter } from '../../reducer/counterSlice';
+import { decrement, setfilter } from '../../reducer/schnittmusterSlice';
+import dataMuster from '../../data/schnittmuster.json';
+
 
 function SearchBar() {
 
-    const dispatch = useDispatch()
+    const dispatch = useDispatch();
     const schnittdata = useSelector(state => state.schnittmuster.submit);
 
     function handleChange(event) {
@@ -15,7 +18,6 @@ function SearchBar() {
     }
 
     const [data, setData] = useState(dataMuster);
-    const [filter, setFilter] = useState(data);
 
     const handleSubmitClick = (event) => {
         event.preventDefault()

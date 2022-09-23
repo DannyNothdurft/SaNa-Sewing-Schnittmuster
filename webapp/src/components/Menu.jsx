@@ -5,14 +5,11 @@ import BlackBar from "./MenuComponents/BlackBar";
 import Header from "./MenuComponents/Header";
 import NavTabBar from "./MenuComponents/NavTabBar";
 
-function Menu({ handleChange, handleSubmitClick }) {
+function Menu() {
     return (
         <div className='ccMenu'>
             <BlackBar />
-            <Header
-                handleChange={handleChange}
-                handleSubmitClick={handleSubmitClick}
-            />
+            <Header />
             <NavTabBar />
         </div>
     );

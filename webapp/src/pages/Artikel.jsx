@@ -1,10 +1,14 @@
 import React from 'react';
+import { useSelector } from 'react-redux';
 
 // Components & Pages
 import FilterStrip from '../components/ArtikelComponents/FilterStrip';
 import Schnittmuster from '../components/ArtikelComponents/Schnittmuster';
 
-function Artikel({ data }) {
+function Artikel() {
+
+  const data = useSelector(state => state.schnittmuster.value);
+
   return (
     <div className='pcArtikel'>
 
