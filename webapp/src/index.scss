@@ -90,9 +90,10 @@
 
         .NavTabBarContent {
             margin: 0 auto;
-            max-width: 80rem;
+            max-width: 89rem;
             display: flex;
-            justify-content: space-between;
+            justify-content: flex-start;
+            gap: 20px
         }
     }
 }
@@ -141,7 +142,6 @@
                 color: #3259e8;
                 ;
             }
-
 
         }
     }
@@ -196,6 +196,16 @@
         transition-duration: 0.2s;
         transition-timing-function: ease-in-out;
         transition-delay: 0s;
+    }
+}
+
+.ccSKF {
+
+    select {
+        width: 55px;
+        text-align: right;
+        background-color: #fff;
+        border-radius: 8px;
     }
 }
 

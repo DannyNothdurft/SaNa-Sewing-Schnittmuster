@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import SizeKinderFilter from '../ArtikelComponents/SizeKinderFilter';
+
 // data & reducer
 import { useDispatch } from 'react-redux';
 import { resetet, setGender } from '../../reducer/schnittmusterSlice';
@@ -17,7 +19,10 @@ function NavTabBar() {
 
     return (
         <div className='ccNavTabBar'>
+
             <div className='NavTabBarContent'>
+                <p>Wähle dein Größe: </p>
+                <SizeKinderFilter />
                 <Link to='/' onClick={resetFilter}>Schnittmuster</Link>
             </div>
         </div>

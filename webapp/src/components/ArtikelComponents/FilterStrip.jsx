@@ -11,6 +11,7 @@ function FilterStrip() {
     // const catData = useSelector(state => state.schnittmuster.value);
     const gender = useSelector(state => state.schnittmuster.gender);
     const subCat = useSelector(state => state.schnittmuster.subcategory);
+    const sizeNumber = useSelector(state => state.schnittmuster.size);
 
     const onChangeValue = (event) => {
         dispatch(setGender(event.target.value));
@@ -23,19 +24,13 @@ function FilterStrip() {
 
 
         for (let j = 0; j < schnittData.length; j++) {
-            console.log(schnittData[j].gender)
             if (schnittData[j].gender.includes(split)) {
 
                 let durchlauf = [schnittData[j]];
                 let durchlaufID = [schnittData[j].id];
                 let vergleich = filterIDs.includes(durchlauf[0].id)
 
-                if (vergleich) {
-                    console.log("Bereits vorhanden")
-                }
-
                 if (!vergleich) {
-                    console.log("eintrag gefunden")
                     neueDaten.push.apply(neueDaten, durchlauf);
                     filterIDs.push.apply(filterIDs, durchlaufID);
                 }
@@ -50,7 +45,7 @@ function FilterStrip() {
 
         dispatch(setSubcategory(event.target.value));
 
-        const split = [gender, event.target.value];
+        const split = [gender, sizeNumber, event.target.value];
 
         let neueDaten = [];
         let filterIDs = [];
@@ -58,47 +53,62 @@ function FilterStrip() {
         let currentData = [];
         let currentFilterId = [];
 
+        let currentSize = [];
+        let currentSizeID = [];
+
         for (let i = 0; i < schnittData.length; i++) {
-            console.log(schnittData[i].gender)
             if (schnittData[i].gender.includes(split[0])) {
 
                 let durchlauf = [schnittData[i]];
                 let durchlaufID = [schnittData[i].id];
                 let vergleich = filterIDs.includes(durchlauf[0].id)
 
-                if (vergleich) {
-                    console.log("Bereits vorhanden")
-                }
-
                 if (!vergleich) {
-                    console.log("eintrag gefunden")
                     neueDaten.push.apply(neueDaten, durchlauf);
                     filterIDs.push.apply(filterIDs, durchlaufID);
                 }
             }
-
         }
 
         for (let j = 0; j < neueDaten.length; j++) {
-            if (neueDaten[j].category.includes(split[1])) {
+            if (neueDaten[j].category.includes(split[2])) {
 
                 let durchlauf = [neueDaten[j]];
                 let durchlaufID = [neueDaten[j].id];
                 let vergleich = currentFilterId.includes(durchlauf[0].id)
 
-                if (vergleich) {
-                    console.log("Bereits vorhanden")
-                }
-
                 if (!vergleich) {
-                    console.log("eintrag gefunden")
-                    neueDaten.push.apply(currentData, durchlauf);
-                    filterIDs.push.apply(currentFilterId, durchlaufID);
+                    currentData.push.apply(currentData, durchlauf);
+                    currentFilterId.push.apply(currentFilterId, durchlaufID);
                 }
             }
         }
 
-        dispatch(decrement(currentData))
+        if (sizeNumber > 0) {
+            console.log("currentData", currentData)
+            for (let k = 0; k < currentData.length; k++) {
+                let nummer = Number(split[1]);
+                if (currentData[k].size.includes(nummer)) {
+
+                    console.log("ich habe etwas gefunden")
+                    let durchlauf = [currentData[k]];
+                    let durchlaufID = [currentData[k].id];
+                    let vergleich = currentSizeID.includes(durchlauf[0].id)
+
+                    if (!vergleich) {
+                        currentSize.push.apply(currentSize, durchlauf);
+                        currentSizeID.push.apply(currentSizeID, durchlaufID);
+                    }
+                }
+            }
+        }
+
+        if (sizeNumber > 0) {
+            dispatch(decrement(currentSize))
+        } else {
+            dispatch(decrement(currentData))
+        }
+
     }
 
 
