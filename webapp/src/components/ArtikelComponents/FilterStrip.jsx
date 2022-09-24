@@ -8,7 +8,6 @@ import schnittData from '../../data/schnittmuster.json';
 function FilterStrip() {
 
     const dispatch = useDispatch();
-    // const catData = useSelector(state => state.schnittmuster.value);
     const gender = useSelector(state => state.schnittmuster.gender);
     const subCat = useSelector(state => state.schnittmuster.subcategory);
     const sizeNumber = useSelector(state => state.schnittmuster.size);
@@ -184,9 +183,25 @@ function FilterStrip() {
                         <input className='genderRadio' type="radio" name="subcatergory" id="hose" value="hose" />
                         Hosen
                     </label>
+                    <label htmlFor="kleid" className={subCat === "kleid" ? "subcategoryAktiv" : null}>
+                        <input className='genderRadio' type="radio" name="subcatergory" id="kleid" value="kleid" />
+                        Kleider
+                    </label>
+                    <label htmlFor="accessoire" className={subCat === "accessoire" ? "subcategoryAktiv" : null}>
+                        <input className='genderRadio' type="radio" name="subcatergory" id="accessoire" value="accessoire" />
+                        Accessoires
+                    </label>
                     <label htmlFor="unterwaesche" className={subCat === "unterwaesche" ? "subcategoryAktiv" : null}>
                         <input className='genderRadio' type="radio" name="subcatergory" id="unterwaesche" value="unterwaesche" />
                         Unterwäsche / Bodys
+                    </label>
+                    <label htmlFor="nachtwaesche" className={subCat === "nachtwaesche" ? "subcategoryAktiv" : null}>
+                        <input className='genderRadio' type="radio" name="subcatergory" id="nachtwaesche" value="nachtwaesche" />
+                        Nachtwäsche / Strampler
+                    </label>
+                    <label htmlFor="puppe" className={subCat === "puppe" ? "subcategoryAktiv" : null}>
+                        <input className='genderRadio' type="radio" name="subcatergory" id="puppe" value="puppe" />
+                        Kleidung für Puppen
                     </label>
                 </div>
                 : null}

@@ -5,7 +5,8 @@
         "designer": "Schneiderline",
         "gender": "kinder",
         "category": [
-            "oberteil"
+            "oberteil",
+            "kleid"
         ],
         "size": [
             86,
@@ -13,6 +14,7 @@
             98,
             104,
             116,
+            122,
             128,
             140,
             146,
@@ -115,13 +117,13 @@
             "unterwaesche"
         ],
         "size": [
-            "xs,",
-            "s",
-            "m",
-            "l",
-            "xl",
-            "xxl",
-            "3xl"
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46
         ],
         "avatar": "https://storage.makerist.de/uploads/user/avatar/1230165/large_avatar_d0e62b57.jpg",
         "manual": "https://storage.makerist.de/uploads/pattern/57821/tutorial_preview/Ebook_Einblick_GigiPanty.pdf",
@@ -187,6 +189,7 @@
             98,
             104,
             116,
+            122,
             128,
             140,
             146
@@ -211,7 +214,7 @@
         "designer": "Nipnaps",
         "gender": "kinder",
         "category": [
-            "oberteil"
+            "kleid"
         ],
         "size": [
             74,
@@ -221,6 +224,7 @@
             98,
             104,
             116,
+            122,
             128,
             140,
             146,
@@ -260,6 +264,7 @@
             98,
             104,
             116,
+            122,
             128,
             140,
             146,
@@ -295,6 +300,7 @@
             98,
             104,
             116,
+            122,
             128,
             140,
             146,
@@ -322,7 +328,8 @@
         "designer": "Burda Style",
         "gender": "herren",
         "category": [
-            "oberteil"
+            "oberteil",
+            "jacke"
         ],
         "size": [
             48,
@@ -342,595 +349,2361 @@
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "63696bc3-72c5-414b-a3e4-7d7700243fc9",
+        "product": "Büxchen Schlüpfer",
+        "designer": "Engelinchen Design",
+        "gender": "kinder",
         "category": [
-            ""
+            "unterwaesche"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/274668/large_avatar_c93882de.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/51470/featured_image/featured_image_809024d9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/189108/image/carousel_large_image_cf763356.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/189107/image/carousel_large_image_ae7a2be2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/189106/image/carousel_large_image_efa8e2fc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/189105/image/carousel_large_image_6943b4f5.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "85024c35-a7d2-4f57-ad82-9d51e0ec2e92",
+        "product": "LFT Loose Fit T",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/55652/featured_image/featured_image_1d58dd42.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/202538/image/carousel_large_image_2d9cac78.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/202546/image/carousel_large_image_9f19de22.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/202545/image/carousel_large_image_a65883cb.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519221/image/carousel_large_image_174c3b4b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519222/image/carousel_large_image_0d68f85f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519224/image/carousel_large_image_aa5f80f0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519226/image/carousel_large_image_6cf18707.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "7828dcc7-e78c-4849-a5fc-e1d535fcca12",
+        "product": "ssp Kids - Sweatpants",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/53924/featured_image/featured_image_b61323fd.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280780/image/carousel_large_image_de99d346.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280778/image/carousel_large_image_8760f43e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280777/image/carousel_large_image_e8bda738.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280774/image/carousel_large_image_d30a138b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519200/image/carousel_large_image_34b104a7.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519192/image/carousel_large_image_1284ff15.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519194/image/carousel_large_image_61dd4aba.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519195/image/carousel_large_image_ed9ee7df.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519305/image/carousel_large_image_820cbcca.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "32c423cc-11da-4684-99b2-47f5668523b4",
+        "product": "LALI Sommershirt",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/53897/featured_image/featured_image_389fe16d.png",
+            "https://storage.makerist.de/uploads/orderable_image/302754/image/carousel_large_image_15e818e4.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/302750/image/carousel_large_image_201452d9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/302748/image/carousel_large_image_2b2c0110.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/302746/image/carousel_large_image_92daf143.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358230/image/carousel_large_image_27a19272.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358229/image/carousel_large_image_abb8931f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358228/image/carousel_large_image_49dcdbb2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358227/image/carousel_large_image_356d0570.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "f829296e-bfa4-4b98-958b-3e37babfc509",
+        "product": "Baby Jumi",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            44,
+            60,
+            66,
+            72,
+            80
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/45193/featured_image/featured_image_5c384c33.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358650/image/carousel_large_image_0eaa2423.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358651/image/carousel_large_image_77da48a5.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280789/image/carousel_large_image_55535b45.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280788/image/carousel_large_image_31477124.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280787/image/carousel_large_image_091daf61.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280786/image/carousel_large_image_eaefbb98.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "37b160f8-9c41-432e-9a7d-249e5524d8bf",
+        "product": "Beinschmeicheleien",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            50,
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/67457/featured_image/featured_image_587818e3.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519115/image/carousel_large_image_5269095d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519113/image/carousel_large_image_8c008d78.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519110/image/carousel_large_image_e4d7974d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519111/image/carousel_large_image_9a4c15ef.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519112/image/carousel_large_image_513e6a8b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519116/image/carousel_large_image_2bcf2266.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/519117/image/carousel_large_image_072d91eb.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "ccef65d2-f8ea-44f2-b1fe-c1964291a8c0",
+        "product": "Jumi Cardigan",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/40919/featured_image/featured_image_79d71df1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/492991/image/carousel_large_image_f093445a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280770/image/carousel_large_image_016bd5b4.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280769/image/carousel_large_image_b86a2283.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280768/image/carousel_large_image_e15526d8.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280767/image/carousel_large_image_1fc0f586.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280766/image/carousel_large_image_0a1ab7e5.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/564561/image/carousel_large_image_8fb4071e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358647/image/carousel_large_image_fcf00661.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "6bfaa504-3aca-47b2-b46b-f91aaddfeb52",
+        "product": "Curvy Jumi",
+        "designer": "Rosarosa",
+        "gender": "damen",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/53968/featured_image/featured_image_6a4fafaf.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280733/image/carousel_large_image_2e8f348b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280732/image/carousel_large_image_4da86fd0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280731/image/carousel_large_image_fc439f31.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280727/image/carousel_large_image_47bc97a0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280726/image/carousel_large_image_16d1a26d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280725/image/carousel_large_image_5ae1c875.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358661/image/carousel_large_image_2a235495.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/280724/image/carousel_large_image_d219b652.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "1c10a4ad-988c-4868-963e-15258b017daa",
+        "product": "Feli 2.0 ♥ Ballontunika",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil",
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/32277/featured_image/featured_image_43794ad5.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358344/image/carousel_large_image_fcc3ab87.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358343/image/carousel_large_image_9886026a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358345/image/carousel_large_image_3757ca7c.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358346/image/carousel_large_image_36e655f7.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358348/image/carousel_large_image_0dcb8b8e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358347/image/carousel_large_image_6f397970.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/358349/image/carousel_large_image_87f8e170.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "b4f3fa7b-7477-42dd-bdf2-674c044c9bb6",
+        "product": "Puppenliebe ♥ 9 Schnittmuster für Puppen in 2 Größen",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "puppe"
         ],
         "size": [],
-        "avatar": "",
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/73561/featured_image/featured_image_80f5ffaa.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438257/image/carousel_large_image_a1419094.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438256/image/carousel_large_image_c2e385f9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438258/image/carousel_large_image_15e794c3.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438259/image/carousel_large_image_6ce01bfb.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438260/image/carousel_large_image_fbd7fade.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438261/image/carousel_large_image_0c99b4c3.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438263/image/carousel_large_image_237762eb.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/438262/image/carousel_large_image_da283590.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "c7c44421-4195-4dcf-8d32-fe66adbab139",
+        "product": "LooseFitHood Kids",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil",
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
-        "manual": "",
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/87072/tutorial_preview/rosarosa_LFHKids_Vorschau.pdf",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/87072/featured_image/featured_image_352025c3.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541245/image/carousel_large_image_acf60fd1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541247/image/carousel_large_image_525406cc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541246/image/carousel_large_image_0629dd42.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541244/image/carousel_large_image_d81b90a4.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541249/image/carousel_large_image_4fa01fbd.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541248/image/carousel_large_image_306fbdd7.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541307/image/carousel_large_image_3d3514f8.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/541252/image/carousel_large_image_1bfa0b93.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "1aac0e19-184d-4e6d-a61d-784abe146cae",
+        "product": "MYLALI - Sommershirt",
+        "designer": "Rosarosa",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/67455/featured_image/featured_image_428a9246.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357991/image/carousel_large_image_ee560bd5.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357987/image/carousel_large_image_04970077.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357986/image/carousel_large_image_197f53a6.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357989/image/carousel_large_image_ad3c1753.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357990/image/carousel_large_image_b4dc033f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357992/image/carousel_large_image_2df5712f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/357988/image/carousel_large_image_a42deca1.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "49ebb960-f5c7-4005-8850-807ceca5ad76",
+        "product": "umi Outdoor Jacke ♥",
+        "designer": "Rosarosa",
+        "gender": "kinder",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/528232/large_avatar_43d86718.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/72552/featured_image/featured_image_59867830.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/430512/image/carousel_large_image_3b2d61b9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/430506/image/carousel_large_image_1d41e46c.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/430507/image/carousel_large_image_2a9ebfcd.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/430508/image/carousel_large_image_7f8207bc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/430510/image/carousel_large_image_ba3ca0f5.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/431344/image/carousel_large_image_38452880.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/431345/image/carousel_large_image_06909c82.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/431346/image/carousel_large_image_1b88e83b.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "2c6e77cd-fd82-4ae4-837b-c67f933fd20d",
+        "product": "Shorts Magold",
+        "designer": "mar!gold",
+        "gender": "kinder",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            50,
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            110,
+            116,
+            122,
+            128
+        ],
+        "avatar": "https://www.sewunity.de/system/attachments/production/7dd/5f9/d92/84b/8e9/cba/17011/medium/Logo_Mar!gold.png?1593115688",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83219-274849068_1280998609063248_970928013911064801_n.jpg",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83214-g%C3%BCrtel.JPG",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83215-cord_mit_taschen.jpg",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83216-Kordel_und_Umschlag.jpg",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83217-Jeans.jpg",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83218-kurz_cord.jpg",
+            "https://s3.eu-central-1.amazonaws.com/de.sewunity.shop.productphotos/medium/production/pattern/15611/83220-taschen.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "f410f0d5-c63a-4fe0-8e4b-24f109c017b8",
+        "product": "Herren T-Shirt (Max)",
+        "designer": "pattydoo",
+        "gender": "herren",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            46,
+            48,
+            50,
+            52,
+            54,
+            56
+        ],
+        "avatar": "https://www.pattydoo.de/themes/custom/pat/logo.svg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2021-06/schnittmuster-herrenshirt-leger-brusttasche-selber-naehen.jpg?h=459b02fb&itok=U4SYA-Ye",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2021-06/schnittmuster-maenner-shirt-langarm-streifenstoff-selber-naehen.jpg?h=459b02fb&itok=3ENUJWih",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2021-04/schnittmuster-maenner-shirt-dackelstoff-naehen.jpg?h=459b02fb&itok=LsWu4Pq5",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2021-06/schnittmuster_maenner_shirt_anleitung.jpg?h=708a8e2b&itok=55g4nMCg",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-02/schnittmuster-t-shirt-maenner-kurzarm-v-ausschnitt.jpg?h=e1a23a02&itok=vP70-V4L",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-03/schnittmuster-maennershirt-max-langarm-knopfleiste.jpg?h=b72f420e&itok=FPJrCwf-",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-03/schnittmuster-druckknopf-maennershirt-naehen-max.jpg?h=e1a23a02&itok=iempfHTw",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-03/schnittmuster-v-ausschnitt-maennershirt-naehen-max.jpg?h=e1a23a02&itok=pgKgA29S"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "d87649a1-23e8-4cb2-8302-b526913582f1",
+        "product": "Jogginghose (Alex)",
+        "designer": "pattydoo",
+        "gender": "herren",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            46,
+            48,
+            50,
+            52,
+            54,
+            56
+        ],
+        "avatar": "https://www.pattydoo.de/themes/custom/pat/logo.svg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-07/schnittmuster_maenner_jogginghose_naehen.jpg?h=708a8e2b&itok=KMmpybXT",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_jogginghose_taschen_reissverschluss_naehen_nah.jpg?h=e1a23a02&itok=GE0hxv78",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-03/schnittmuster-v-ausschnitt-maennershirt-naehen-max.jpg?h=e1a23a02&itok=pgKgA29S",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-06/schnittmuster-jogginghose-herren-sweatstoff-naehanleitung.jpg?h=708a8e2b&itok=z_zcaxRe",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_jogginghose_gesaesstasche_naehen.jpg?h=e1a23a02&itok=13tKgc3y",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_jogginghose_reissverschluss_tasche_naehen%20%282%29.jpg?h=e1a23a02&itok=dEmnuSnU",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-03/schnittmuster_jogginghose_reissverschluss_tasche_grau_naehen.jpg?h=e1a23a02&itok=L_CvPtYk",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-03/schnittmuster_jogginghose_buendchen_naehen.jpg?h=e1a23a02&itok=Xleg1lLd",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_jogginghose_locker_reissverschluss_naehen.jpg?h=e1a23a02&itok=3ST2hLoW"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "25befdd7-ad6b-4356-babc-6b9ecbd870e2",
+        "product": "Kapuzenjacke (Jordan)",
+        "designer": "pattydoo",
+        "gender": "herren",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            46,
+            48,
+            50,
+            52,
+            54,
+            56
+        ],
+        "avatar": "https://www.pattydoo.de/themes/custom/pat/logo.svg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/kapuzenjacke_fuer_maenner_naehen.jpg?h=e1a23a02&itok=3Sv_2MOJ",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-07/schnittmuster_naehen_maenner_kapuzenjacke_2.jpg?h=708a8e2b&itok=5v8v32Cz",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2021-08/schnittmuster-jordan-herren-kapuzenjacke-selber-naehen.jpg?h=708a8e2b&itok=jL4JPRU3",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/beleg_naehen_kapuzenjacke.jpg?h=e1a23a02&itok=2aAC2JNq",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/raglanaermel_kapuzenjacke_selber_naehen.jpg?h=e1a23a02&itok=rFFqz1rh",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/maennerjacke_mit_kordeln.jpg?h=e1a23a02&itok=LwI2nVgs",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/kaengurutasche_kapuzenjacke_naehen.jpg?h=e1a23a02&itok=KbTr0FF9",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-08/schnittmuster_maenner_kapuzenjacke.jpg?h=e1a23a02&itok=TxzOUD1S"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "21bdbe5e-e73f-4870-afa6-041b549a0d44",
+        "product": "Sweatpants (Jenna)",
+        "designer": "pattydoo",
+        "gender": "damen",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54
+        ],
+        "avatar": "https://www.pattydoo.de/themes/custom/pat/logo.svg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-06/schnittmuster-damenhose-leger-sommerlich-selbst-naehen.jpg?h=459b02fb&itok=U1SAGLEQ",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-04/schnittmuster-sweatpants-hose-edel-naehanleitung.jpg?h=e1a23a02&itok=UQpLFB7Q",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-06/schnittmuster-damen-sweatpants-bundfalten-sommersweat-naehanleitung.jpg?h=459b02fb&itok=kojvN0lF",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-08/schnittmuster_damen_sweatpants_naehen.jpg?h=708a8e2b&itok=tV-6WPhR",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-03/schnittmuster_sweatpants_karo_naehen.jpg?h=e1a23a02&itok=-uVeauoe",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-03/schnittmuster_sweatpants_naehen.jpg?h=e1a23a02&itok=NAuBZ8Us",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-04/jogginghose-schnittmuster-athleisure-naehen-anleitung.jpg?h=e1a23a02&itok=ioe2qRMF",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-03/schnittmuster_sweat_hose_eingrifftasche_naehen.jpg?h=e1a23a02&itok=rBr58vYn"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "69a8dd94-f353-435b-897f-e7bb39659388",
+        "product": "Schößchenshirt (Marylin)",
+        "designer": "pattydoo",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48
+        ],
+        "avatar": "https://www.pattydoo.de/themes/custom/pat/logo.svg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2020-07/schnittmuster_schoesschen_runder_ausschnitt_selber_naehen.jpg?h=708a8e2b&itok=sT2QzHi7",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-11/schnittmuster_damen_schoesschen_shirt_silber_festlich_selber_naehen.jpg?h=64a8be0e&itok=ey7fgt9v",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_schoesschenshirt_bubikragen_naehanleitung.jpg?h=e1a23a02&itok=08bhsu-q",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-06/schnittmuster_schoesschen_shirt_elegant_naehen.jpg?h=e1a23a02&itok=BsP6EF3k",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-11/schnittmuster_damen_schoesschen_shirt_weihnachtsoutfit_selber_naehen.jpg?h=64a8be0e&itok=QEWPzvLB",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_damen_schoesschenshirt_naehanleitung.jpg?h=e1a23a02&itok=BkIgQCbt",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-07/schnittmuster_schoesschen_shirt_blumenmuster_naehen.jpg?h=e1a23a02&itok=A3H-TZr5",
+            "https://www.pattydoo.de/sites/default/files/styles/product_full/public/media-images/2018-06/schnittmuster_damen_schoesschen_shirt_silvester_outfit_naehen.jpg?h=e1a23a02&itok=oj5caKxv"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "889aa03a-1bb3-4b1e-b474-ed49073902a9",
+        "product": "Oversize Pullover Damen (Bergen)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil",
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Bergen-Damen.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-54-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-69-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-68-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-64-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-50-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-49-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-45-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-43-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-37-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-81-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-80-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-72-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-70-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-35-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-30-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-26-600x400.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-25-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-14-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/03/Schnittmuster-Bergen-107-600x900.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "f180272d-3c72-4db9-ae48-09a48f5580fb",
+        "product": "Kleid (St. Peter-Ording)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "kleid",
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Spo_neu.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-3-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-49-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-82-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-7-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-9-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-14-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-25-600x400.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-32-600x400.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-32-600x400.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-36-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-43-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-100-600x900.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-90.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-116.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/08/Kleid-Tunika-SPO-68.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "97b08994-eb68-4f0f-8ad8-9b522699efb0",
+        "product": "Oversizepullover (Bergedorf)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil",
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Bergedorf_neu.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Ostma%CC%88a%CC%88del21.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Ostma%CC%88a%CC%88del11.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/LiaEl3.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Liael5-1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Liael8.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/neverwetdesigns3.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/neverwetdesigns2-1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/freuleinlinka.de4_1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/freuleinlinka.de2_1.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "a39dc486-0f61-4298-b7ad-a3f2aeabbfc2",
+        "product": "Oversizemantel (Göteborg)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Goeteborg_neu-1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Goeteborgfigurinnen.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-200.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-145.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-79.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-209.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-77.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-76.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-75.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-73.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/01/Schnittmuster-Go%CC%88teborg-10.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "61a4784f-36c3-4549-a41b-1215b8c39c76",
+        "product": "Ballonkleid (Warnemüde)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Warnemuende_neu.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/04/SchnittmusterWarnemuende-71.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/04/SchnittmusterWarnemuende-132.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/04/SchnittmusterWarnemuende-153.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/04/SchnittmusterWarnemuende-82.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2020/04/SchnittmusterWarnemuende-16.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "0c99d1d2-6e3b-48b8-bae5-89fe80fde3c3",
+        "product": "Oberteil (Kapstadt) mit Fledermausärmeln",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Kapstadt_neu-1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-5.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-22.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-28.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-49.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-57.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-64.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-112.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-73.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/09/Schnittmuster-Kapstadt-98.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "f94412d4-79d5-4f33-8036-b12a61eddabe",
+        "product": "Shirtbluse (Florenz)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/07/Florenz_neu.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-21-1.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-33.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-34.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-12.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-7.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-4.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-blau-9.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-rot-22.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-rot-31.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2018/05/Florenz-rot-26.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "d2bdceb9-675d-4524-a8e4-012a8f3ddf29",
+        "product": "Kaputzenjacke (Lüneburg)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "jacke"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/09/Luenburg_Titelbild.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-29.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-17.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-7.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-6.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-5.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-2.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-11.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-14.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2019/02/Lueneburg-32.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "58f0ed1b-59f7-426d-a410-1a3df51c46d5",
+        "product": "Kaftankleid (Split)",
+        "designer": "Pech & Schwefel",
+        "gender": "damen",
         "category": [
-            ""
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60
+        ],
+        "avatar": "https://shop.pechundschwefel.eu/wp-content/uploads/2018/06/cropped-PechSchwefel-Farbe2-1.png",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Schnittmuster-Split.jpg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-6.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-124.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-118.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-111.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-106.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-101.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-96.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-88.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-75.jpeg",
+            "https://shop.pechundschwefel.eu/wp-content/uploads/2022/05/Kleid-Split-52.jpeg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "8ba0c237-dfc5-4e9d-8918-2a8aa2534d02",
+        "product": "Romantik-Liebling #23",
+        "designer": "Lemeldesign",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1556319/large_avatar_2b6f23fb.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/73302/featured_image/featured_image_df5bbdfb.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/436140/image/carousel_large_image_cf54a144.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/436129/image/carousel_large_image_905066e2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/532308/image/carousel_large_image_e44c408b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/532313/image/carousel_large_image_9d9e40a4.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "359a36a7-cc76-46ce-9f59-ca94ea9c02cd",
+        "product": "Ganzjahres-Liebling",
+        "designer": "Lemeldesign",
+        "gender": "kinder",
         "category": [
-            ""
+            "kleid",
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1556319/large_avatar_2b6f23fb.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/73482/featured_image/featured_image_5355ba18.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437524/image/carousel_large_image_a401cafe.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437522/image/carousel_large_image_ac659211.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437523/image/carousel_large_image_1ff74348.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437526/image/carousel_large_image_8ecd5777.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "1b24625a-4ce6-40b4-85fb-92b3fd2fd0d9",
+        "product": "Rüschen-Liebling #22",
+        "designer": "Lemeldesign",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1556319/large_avatar_2b6f23fb.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/orderable_image/437499/image/carousel_large_image_c29b6ae2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437502/image/carousel_large_image_22779ae1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437504/image/carousel_large_image_bb9eb2f7.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/437503/image/carousel_large_image_5d53185e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/452714/image/carousel_large_image_1376685f.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "874aecc2-53ac-4137-9253-e4d29cc0faca",
+        "product": "Kids Leggings #26",
+        "designer": "Lemeldesign",
+        "gender": "kinder",
         "category": [
-            ""
+            "hose"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1556319/large_avatar_2b6f23fb.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/78426/featured_image/featured_image_4c8e3252.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/475492/image/carousel_large_image_b82ff467.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/475491/image/carousel_large_image_a67b5b94.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/475495/image/carousel_large_image_d6964825.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/475496/image/carousel_large_image_d94862c3.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "a3c798c0-6033-4eb3-85c9-70f60227ef5b",
+        "product": "Sommershirt #29",
+        "designer": "Lemeldesign",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1556319/large_avatar_2b6f23fb.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/orderable_image/494145/image/carousel_large_image_cc705002.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/494146/image/carousel_large_image_a309a746.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/494148/image/carousel_large_image_60b876c6.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/494149/image/carousel_large_image_9effa2d2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/494150/image/carousel_large_image_6614dc37.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "7bc5f2e4-3ac3-49b9-a69b-ea7d59ac3856",
+        "product": "Mützenschal - Kopfumfang 35cm bis 55cm",
+        "designer": "Frleinfaden",
+        "gender": "kinder",
         "category": [
-            ""
+            "accessoire"
         ],
-        "size": [],
-        "avatar": "",
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/968338/large_avatar_57a96d12.jpg",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/60455/featured_image/featured_image_141428c8.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/526164/image/carousel_large_image_63531e0e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/526163/image/carousel_large_image_20565d40.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/526165/image/carousel_large_image_6a00ea1a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/526166/image/carousel_large_image_7b79fa80.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "20fca6c1-50f8-43b2-ab32-a4cbb741a768",
+        "product": "Pullover Das geknoteteDrüberding",
+        "designer": "FourChapter",
+        "gender": "kinder",
         "category": [
-            ""
+            "oberteil"
         ],
-        "size": [],
-        "avatar": "",
-        "manual": "",
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1667711/large_avatar_a360e8e4.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/78299/tutorial_preview/PDF_Vorschau.pdf",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/78299/featured_image/featured_image_d2e89f3a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/474580/image/carousel_large_image_3a68e754.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/474581/image/carousel_large_image_daa040fe.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/474585/image/carousel_large_image_18538fbc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/474587/image/carousel_large_image_eb9ed728.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "3bbc6d50-9d36-4f1b-89dd-b03f1103ced9",
+        "product": "Kinderkleid Louann",
+        "designer": "TOSCAminni-Schnittmanufaktur",
+        "gender": "kinder",
         "category": [
-            ""
+            "kleid"
         ],
-        "size": [],
-        "avatar": "",
-        "manual": "",
+        "size": [
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/719934/large_avatar_844c75fc.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/63568/tutorial_preview/2-K-35_Kleid_Louann_Naehanleitung_Vorschau.pdf",
         "download": "",
         "images": [
-            ""
+            "https://storage.makerist.de/uploads/pattern/63568/featured_image/featured_image_012141d1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/482342/image/carousel_large_image_72a6807a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/527253/image/carousel_large_image_38467f3c.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/482495/image/carousel_large_image_279b24a1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/482343/image/carousel_large_image_42c8d8ec.jpg"
         ]
     },
     {
-        "id": "",
-        "product": "",
-        "designer": "",
-        "gender": "",
+        "id": "53e06acb-3260-4f01-8bd1-5508d0d4fe68",
+        "product": "Haarband Lotti Bandeau KU 35 - 60 cm",
+        "designer": "Engelinchen Design",
+        "gender": "kinder",
         "category": [
-            ""
+            "accessoire"
         ],
-        "size": [],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/274668/large_avatar_c93882de.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/59973/featured_image/featured_image_09fce463.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/292061/image/carousel_large_image_16d6231b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/292060/image/carousel_large_image_2b7ef079.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/292059/image/carousel_large_image_a926ab84.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/292056/image/carousel_large_image_d93e770d.jpg"
+        ]
+    },
+    {
+        "id": "064dd80c-25ee-456c-a407-f74a10453883",
+        "product": "Lybstes. kurze Pumphose 2.0",
+        "designer": "Lybstes.",
+        "gender": "kinder",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/522671/large_avatar_4a76b798.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/67139/featured_image/featured_image_38708868.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614484/image/carousel_large_image_d24fa575.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614485/image/carousel_large_image_cacb5195.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614486/image/carousel_large_image_0512f6a9.jpg"
+        ]
+    },
+    {
+        "id": "6c03d1d0-0492-47e0-b37d-a7be3b11917e",
+        "product": "Lybstes. Basic-Shirt",
+        "designer": "Lybstes.",
+        "gender": "kinder",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/522671/large_avatar_4a76b798.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/18958/featured_image/featured_image_6cc69e7f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209791/image/carousel_large_image_5cc595d0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614691/image/carousel_large_image_47664dbe.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614692/image/carousel_large_image_241d4d19.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614694/image/carousel_large_image_37b68fa8.jpg"
+        ]
+    },
+    {
+        "id": "2a9a1659-da7e-4f7e-aa01-63feaa7ae7f8",
+        "product": "Lybstes. Jolly Strampler",
+        "designer": "Lybstes.",
+        "gender": "kinder",
+        "category": [
+            "nachtwaesche"
+        ],
+        "size": [
+            44,
+            50,
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/522671/large_avatar_4a76b798.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/54051/featured_image/featured_image_806639fe.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614560/image/carousel_large_image_e2d96fb6.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209689/image/carousel_large_image_ad8468ce.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209688/image/carousel_large_image_80998c8d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209685/image/carousel_large_image_7322ed32.jpg"
+        ]
+    },
+    {
+        "id": "b90909cc-bf58-44f9-86a0-47bb3104c4b5",
+        "product": "Lybstes. Pumphose",
+        "designer": "Lybstes.",
+        "gender": "kinder",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            44,
+            50,
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/522671/large_avatar_4a76b798.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/18127/featured_image/featured_image_dbd8164f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209813/image/carousel_large_image_b23751c6.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/209817/image/carousel_large_image_557c2efe.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614788/image/carousel_large_image_1be0d1d9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/614790/image/carousel_large_image_5e294a2e.jpg"
+        ]
+    },
+    {
+        "id": "e1a6c179-1301-4627-93e4-6acdede0fc94",
+        "product": "Cutie Shirt",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/69220/featured_image/featured_image_334fbcb9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/511848/image/carousel_large_image_2b58f908.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/511849/image/carousel_large_image_e19af91f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370647/image/carousel_large_image_a789b83d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370654/image/carousel_large_image_cb6db0da.jpg"
+        ]
+    },
+    {
+        "id": "a4a86384-15be-4221-ba9d-09da6ab847fa",
+        "product": "Sunny Shorts",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/69228/tutorial_preview/Vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/69228/featured_image/featured_image_cf1214ce.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370724/image/carousel_large_image_81e09c46.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370725/image/carousel_large_image_27263b23.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370728/image/carousel_large_image_bd777b42.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370729/image/carousel_large_image_31333b0e.jpg"
+        ]
+    },
+    {
+        "id": "73d2de04-6df3-4187-b00b-91e12fce1ed4",
+        "product": "Sweety Bow",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "accessoire"
+        ],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/69232/tutorial_preview/Vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/69232/featured_image/featured_image_fae627e4.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370765/image/carousel_large_image_013e4d60.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370766/image/carousel_large_image_a4c381f2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370767/image/carousel_large_image_1c0fbc53.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370768/image/carousel_large_image_7c1d6850.jpg"
+        ]
+    },
+    {
+        "id": "4fcc4af9-c217-44a2-9847-70dffcd68f39",
+        "product": "Girly Sweater",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "kleid"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/69221/tutorial_preview/Girly-Sweater-klein-Vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/69221/featured_image/featured_image_f1d4907d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370663/image/carousel_large_image_e06bf02b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370665/image/carousel_large_image_a7a6a5fc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370657/image/carousel_large_image_865d4847.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/370658/image/carousel_large_image_8dc16a76.jpg"
+        ]
+    },
+    {
+        "id": "2163b7ff-35d1-4263-b45d-570a5f29a0c7",
+        "product": "Add-on Paket Girly Sweater",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "kleid"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/78538/featured_image/featured_image_afd30908.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/476437/image/carousel_large_image_b54de00e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/476438/image/carousel_large_image_8131ff97.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/476440/image/carousel_large_image_8ff98b3d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/476441/image/carousel_large_image_2969b806.jpg"
+        ]
+    },
+    {
+        "id": "d5048501-65d4-4a2f-97b2-b475ad0854ac",
+        "product": "Dainty Sweater",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/74069/tutorial_preview/Vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/74069/featured_image/featured_image_a1eceff2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/442094/image/carousel_large_image_9fa7991e.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/442086/image/carousel_large_image_096faa95.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/442087/image/carousel_large_image_d75a3553.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/442090/image/carousel_large_image_2f561370.jpg"
+        ]
+    },
+    {
+        "id": "68dc3dd4-2397-4538-b726-78d7f58a6c1a",
+        "product": "Harley Pants Kids",
+        "designer": "Schleiferlwerk",
+        "gender": "kinder",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1465807/large_avatar_c5556296.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/72243/tutorial_preview/Vorschlau-Kids.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/72243/featured_image/featured_image_f9d35e82.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/428104/image/carousel_large_image_b1386429.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/428103/image/carousel_large_image_06305910.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/428105/image/carousel_large_image_8ce005e0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/428107/image/carousel_large_image_e2b26847.jpg"
+        ]
+    },
+    {
+        "id": "b7dfb0c9-3ab3-4646-ac20-f203c5ec62aa",
+        "product": "Waterfall Raglan",
+        "designer": "",
+        "gender": "kinder",
+        "category": [
+            "kleid",
+            "oberteil"
+        ],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
         "avatar": "",
         "manual": "",
         "download": "",
         "images": [
-            ""
+            "https://naeh-connection.com/wp-content/uploads/2017/03/waterfall-header.jpg"
+        ]
+    },
+    {
+        "id": "cc2397f7-9386-4eec-a319-89e524b70348",
+        "product": "Girly Cardigan",
+        "designer": "Schneiderline",
+        "gender": "kinder",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/534010/large_avatar_af955504.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/75133/tutorial_preview/Ebook_Girly_Cardigan_Blick_ins_Buch.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/75133/featured_image/featured_image_683d2e1c.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/450773/image/carousel_large_image_98814e2d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/450775/image/carousel_large_image_a5c71d68.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/450778/image/carousel_large_image_6bec42d0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/450776/image/carousel_large_image_70acfee4.jpg"
+        ]
+    },
+    {
+        "id": "20252734-a812-44e5-8eed-8e0f4267f431",
+        "product": "Vintage Dress für JERSEY",
+        "designer": "Schneiderline",
+        "gender": "kinder",
+        "category": [
+            "kleid",
+            "oberteil"
+        ],
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/534010/large_avatar_af955504.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/59509/featured_image/featured_image_c239dd4b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/462514/image/carousel_large_image_2b1013e1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285923/image/carousel_large_image_3ce99eae.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285920/image/carousel_large_image_29eb60c0.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285915/image/carousel_large_image_3bf525f7.jpg"
+        ]
+    },
+    {
+        "id": "88303210-4f8d-44f7-ad99-47e80f5d8328",
+        "product": "Little Miss Walnut Tunika & Dress G",
+        "designer": "Ba.binaa Patterns",
+        "gender": "kinder",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1280584/large_avatar_1d0747c5.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/64754/tutorial_preview/Vorschau_Anleitung_Little_Miss_Walnut_kids_compressed.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/64754/featured_image/featured_image_2ff04716.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/338088/image/carousel_large_image_ca3a66ea.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/338089/image/carousel_large_image_f956ba03.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/338091/image/carousel_large_image_1abaead2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/338090/image/carousel_large_image_9423f816.jpg"
+        ]
+    },
+    {
+        "id": "97a8068f-ad63-4dcc-8acc-6439c8a231f4",
+        "product": "Collegejacke (Herzblatt)",
+        "designer": "Fred von SOHO",
+        "gender": "kinder",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/352748/large_avatar_2701325a.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/11474/featured_image/featured_image.png"
+        ]
+    },
+    {
+        "id": "317ef817-30e3-49ec-acdc-c8a3ae7768f9",
+        "product": "Damen Jacke CUACA ♥",
+        "designer": "Nähfrosch",
+        "gender": "damen",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1502976/large_avatar_d4197ad8.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/76893/featured_image/featured_image_ee28c539.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/463212/image/carousel_large_image_736834dc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/463213/image/carousel_large_image_4c086ca9.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/463210/image/carousel_large_image_99563367.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/588557/image/carousel_large_image_8a8aac54.jpg"
+        ]
+    },
+    {
+        "id": "cfc4f95c-2d77-4d77-839f-d1a5a5cb1c07",
+        "product": "Parka – AnniNanni Mädchenparka",
+        "designer": "AnniNanni",
+        "gender": "kinder",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152
+        ],
+        "avatar": "https://anninanni.de/wp-content/uploads/2016/06/logo1.png",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://anninanni.de/wp-content/uploads/2018/10/Titel.png"
+        ]
+    },
+    {
+        "id": "6a98eef9-1543-4a25-b1e3-553162c5341f",
+        "product": "Kombischnittmuster - Das Feending - Damen/Kind - Tunika",
+        "designer": "four-chapter",
+        "gender": "kinder",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://static.wixstatic.com/media/00ec57_f738789ac8fd46e8a50aca1aa8f558f9~mv2.jpg/v1/fill/w_500,h_375,al_c,q_85,usm_0.66_1.00_0.01/00ec57_f738789ac8fd46e8a50aca1aa8f558f9~mv2.webp",
+            "https://static.wixstatic.com/media/00ec57_9a7d9d52ffdf418d94045fe405b6caef~mv2.jpg/v1/fill/w_500,h_375,al_c,q_85,usm_0.66_1.00_0.01/00ec57_9a7d9d52ffdf418d94045fe405b6caef~mv2.webp",
+            "https://static.wixstatic.com/media/00ec57_1a5b7ace1dae4e289bfee68b765efd4e~mv2.jpg/v1/fill/w_500,h_375,al_c,q_85,usm_0.66_1.00_0.01/00ec57_1a5b7ace1dae4e289bfee68b765efd4e~mv2.webp",
+            "https://static.wixstatic.com/media/00ec57_38af745a69044c3e87f7a5ae34f5ca25~mv2.jpg/v1/fill/w_500,h_375,al_c,q_85,usm_0.66_1.00_0.01/00ec57_38af745a69044c3e87f7a5ae34f5ca25~mv2.webp",
+            "https://static.wixstatic.com/media/00ec57_76edb81b163943c09bea3e6fa43ce187~mv2.jpg/v1/fill/w_500,h_375,al_c,q_85,usm_0.66_1.00_0.01/00ec57_76edb81b163943c09bea3e6fa43ce187~mv2.webp"
+        ]
+    },
+    {
+        "id": "e7200be5-6b74-46bd-a537-59bb242b7ea0",
+        "product": "Romantik-Bluse F/S 2018 #6446B",
+        "designer": "Burda Style",
+        "gender": "damen",
+        "category": [
+            "oberteil"
+        ],
+        "size": [
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60
+        ],
+        "avatar": "",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://cdn.burdastyle.de/1170x1470_HKAT_2018_FS_6446B_Heft.jpg",
+            "https://cdn.burdastyle.de/1170x1470_HKAT_2018_FS_6446B_front.png",
+            "https://cdn.burdastyle.de/1170x1470_HKAT_2018_FS_6446B_back.png",
+            "https://cdn.burdastyle.de/1170x1470_HKAT_2018_FS_6446B_front_SUFFIX_AI.png",
+            "https://cdn.burdastyle.de/1170x1470_HKAT_2018_FS_6446B_back_SUFFIX_AI.png"
+        ]
+    },
+    {
+        "id": "bc05af36-17d3-481c-8713-01da65a7b1b8",
+        "product": "Weites Tunikakleid 04/2016 #128B ",
+        "designer": "Burda Style",
+        "gender": "damen",
+        "category": [
+            "kleid"
+        ],
+        "size": [
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://cdn.burdastyle.de/1170x1470_BS_2016_04_128B_Heft.jpg",
+            "https://cdn.burdastyle.de/1170x1470_BS_2016_04_128B_Auswahl_2.jpg",
+            "https://cdn.burdastyle.de/1170x1470_BS_2016_04_128B_Auswahl_3.jpg",
+            "https://cdn.burdastyle.de/1170x1470_BS_2016_04_128B_front.png",
+            "https://cdn.burdastyle.de/1170x1470_BS_2016_04_128_front_B.png"
+        ]
+    },
+    {
+        "id": "5ff87eb9-fba3-4d74-9342-8f561b7f4d32",
+        "product": "Violette Dress",
+        "designer": "Violette field threads",
+        "gender": "kinder",
+        "category": [
+            "kleid"
+        ],
+        "size": [
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://cdn.shopify.com/s/files/1/0144/4922/products/Violette1.jpg?v=1571438669",
+            "https://cdn.shopify.com/s/files/1/0144/4922/products/Violette98.jpg?v=1571438669",
+            "https://cdn.shopify.com/s/files/1/0144/4922/products/Violettecassie2_1024x.jpg?v=1571438669",
+            "https://cdn.shopify.com/s/files/1/0144/4922/products/BE3A1414.jpg?v=1571438669",
+            "https://cdn.shopify.com/s/files/1/0144/4922/products/Violette3.jpg?v=1571438669"
+        ]
+    },
+    {
+        "id": "054814be-8b6c-4c5b-8956-5e0cdbef6841",
+        "product": "Parka/Mantel Alex",
+        "designer": "Fadenkäfer",
+        "gender": "herren",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/123371/large_avatar_d2e4e784.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/59473/featured_image/featured_image_b228ab70.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285373/image/carousel_large_image_2bcba461.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285372/image/carousel_large_image_89044e68.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/285371/image/carousel_large_image_d1427784.jpg"
+        ]
+    },
+    {
+        "id": "26c47eb8-0856-456a-b940-a20f441fe615",
+        "product": "Wind&Wetter Parka",
+        "designer": "Lotte & Ludwig",
+        "gender": "damen",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/398185/large_avatar_19431bea.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/12255/tutorial_preview/vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/12255/featured_image/featured_image_107170bb.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514916/image/carousel_large_image_d29d0af1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514922/image/carousel_large_image_a49cc779.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514917/image/carousel_large_image_0054d4ca.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514920/image/carousel_large_image_596b9f03.jpg"
+        ]
+    },
+    {
+        "id": "45262ba1-0cff-4524-95f7-d3a55f206856",
+        "product": "Leggings PiexSu Chomma",
+        "designer": "PiexSu",
+        "gender": "damen",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/425001/large_avatar_f69bf967.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/64676/tutorial_preview/Blick_ins_eBook_PiexSu_Leggings_Chomma_Damen.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/64676/featured_image/featured_image_5e418e22.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/337604/image/carousel_large_image_b2b57c0b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/337607/image/carousel_large_image_dbb7ce64.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/337606/image/carousel_large_image_cb5a8e0a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/337608/image/carousel_large_image_b8ead2b9.jpg"
+        ]
+    },
+    {
+        "id": "5274370b-ae8b-4128-8f8e-46a04b7d6e04",
+        "product": "Sweatkleid (Stockholm)",
+        "designer": "lemon & mint Couture",
+        "gender": "damen",
+        "category": [
+            "kleid"
+        ],
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1019200/large_avatar_ac654bab.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/85712/tutorial_preview/LemonandMint_Stockholm_Vorschau.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/85712/featured_image/featured_image_6dedb05f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/531192/image/carousel_large_image_0f8dcc7f.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/531188/image/carousel_large_image_c5b8b15a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/531189/image/carousel_large_image_fa2a8aef.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/531195/image/carousel_large_image_44a74717.jpg"
+        ]
+    },
+    {
+        "id": "25abe50f-2eb0-4a19-b27e-567d3b1ad7fb",
+        "product": "Miura Parka Mantel",
+        "designer": "firstloungeberlin® & Easyschnitt®",
+        "gender": "damen",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/482306/large_avatar_c867e94d.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/34192/tutorial_preview/Miura_Parka_Jacke_Mantel_N_hanleitung.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/34192/featured_image/featured_image_dc308e04.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/260288/image/carousel_large_image_697e0131.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/260285/image/carousel_large_image_e0782f42.jpg"
+        ]
+    },
+    {
+        "id": "0f8e97ae-dc64-4c3a-82f8-4ed606f34ab6",
+        "product": "Walk Mantel DINGIN ♥",
+        "designer": "Nähfrosch",
+        "gender": "damen",
+        "category": [
+            "jacke"
+        ],
+        "size": [
+            34,
+            36,
+            38,
+            40,
+            42,
+            44
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1502976/large_avatar_d4197ad8.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/74234/featured_image/featured_image_6c2bbae1.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/443367/image/carousel_large_image_4fc25e1b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/443373/image/carousel_large_image_c6ddadd7.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/443371/image/carousel_large_image_a62f7e1a.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/443370/image/carousel_large_image_eaedb29d.jpg"
+        ]
+    },
+    {
+        "id": "c8bc6a7b-f8a3-4937-8745-f3a0e613c7f2",
+        "product": "Strickkleid LIMA",
+        "designer": "Melian`s kreatives Stoffchaos",
+        "gender": "damen",
+        "category": [
+            "kleid",
+            "oberteil"
+        ],
+        "size": [
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/507502/large_avatar_c6087bd7.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/86669/featured_image/featured_image_1e185f83.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/538217/image/carousel_large_image_534b4992.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/538219/image/carousel_large_image_0194f940.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/538220/image/carousel_large_image_280014e8.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/538221/image/carousel_large_image_782fe46b.jpg"
+        ]
+    },
+    {
+        "id": "b8c156b0-babd-4d80-99be-eebcba040355",
+        "product": "Fly +Dado Schnittmuster Kinderset Kombi Hoodie und Hose",
+        "designer": "Pattern4kids",
+        "gender": "kinder",
+        "category": [
+            "hose",
+            "oberteil"
+        ],
+        "size": [
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/57045/large_avatar_38cb4c92.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/89499/tutorial_preview/FLY_Deutsch_ebook_preview.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/89499/featured_image/featured_image_d04258cc.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/558663/image/carousel_large_image_8b5f350b.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/558672/image/carousel_large_image_8e2059d8.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/558673/image/carousel_large_image_c6414775.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/558675/image/carousel_large_image_bbf142de.jpg"
+        ]
+    },
+    {
+        "id": "3fbf08a5-cbc6-439d-994b-a848101a085f",
+        "product": "FlatPants",
+        "designer": "Krullenbol",
+        "gender": "kinder",
+        "category": [
+            "hose"
+        ],
+        "size": [
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/1615692/large_avatar_af74bad6.jpg",
+        "manual": "",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/83518/featured_image/featured_image_77108ef2.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514548/image/carousel_large_image_1f3ff41d.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514553/image/carousel_large_image_f03ac0be.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514554/image/carousel_large_image_2cbb5255.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/514555/image/carousel_large_image_8c19d98a.jpg"
+        ]
+    },
+    {
+        "id": "cfc60e36-ce7b-4df9-83fa-016e8b6b61bc",
+        "product": "Lib-Schlafsack",
+        "designer": "Libminna",
+        "gender": "kinder",
+        "category": [
+            "nachtwaesche"
+        ],
+        "size": [
+            56,
+            62,
+            68,
+            74,
+            80,
+            86,
+            92,
+            98,
+            104,
+            116,
+            122,
+            128,
+            134,
+            140,
+            146,
+            152,
+            158,
+            164,
+            170
+        ],
+        "avatar": "https://storage.makerist.de/uploads/user/avatar/158682/large_avatar_993fbca5.jpg",
+        "manual": "https://storage.makerist.de/uploads/pattern/64204/tutorial_preview/eBook_Schurli_preview.pdf",
+        "download": "",
+        "images": [
+            "https://storage.makerist.de/uploads/pattern/64204/featured_image/featured_image_30d90569.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/333983/image/carousel_large_image_a2be9e27.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/333982/image/carousel_large_image_6fea76dd.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/333985/image/carousel_large_image_df67db86.jpg",
+            "https://storage.makerist.de/uploads/orderable_image/333986/image/carousel_large_image_a8ec113f.jpg"
         ]
     }
 ]
