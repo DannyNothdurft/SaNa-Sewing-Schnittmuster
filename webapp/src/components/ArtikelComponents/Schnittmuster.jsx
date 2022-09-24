@@ -8,7 +8,7 @@ function Schnittmuster({ muster }) {
             pathname: `/artikel/${muster.id}`,
         }}>
             <div className='ccSchnittmuster'>
-                <img src={muster.images} alt={`Product bild von ${muster.product}`} />
+                <img src={muster.images[0]} alt={`Product bild von ${muster.product}`} />
                 <div>
                     <h3>{muster.product}</h3>
                     <h6>{muster.designer}</h6>

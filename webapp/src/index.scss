@@ -212,6 +212,7 @@
 .pcSingleArtikel {
     width: 70%;
     margin: 20px auto;
+    min-height: 72.1vh;
 
     a {
         text-decoration: none;
@@ -236,8 +237,8 @@
 
 
             img {
-                width: 670px;
-                height: 670px;
+                width: 550px;
+                height: 550px;
                 object-fit: cover;
             }
 
@@ -264,6 +265,7 @@
 
                 img {
                     border-radius: 50%;
+                    width: 50px;
                 }
 
                 p {

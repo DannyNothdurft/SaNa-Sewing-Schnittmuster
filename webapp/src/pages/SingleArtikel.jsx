@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { ExternalLink } from 'react-external-link';
 import { AiOutlineDoubleLeft, AiOutlineEye } from 'react-icons/ai';
+import avatarplaceholder from "../sorce/avatarplaceholder.jpeg"
 
 function SingleArtikel() {
 
@@ -20,15 +21,17 @@ function SingleArtikel() {
             <Link to="/"><AiOutlineDoubleLeft /> zurück</Link>
             <div className='SingleArtikelProduct'>
                 <div className='SingleArtikelSlider'>
-                    <img src={muster.images} alt={`Productbild von ${muster.product}`} />
+                    {/* ES muss ein Slider noch geben */}
+                    <img src={muster.images[0]} alt={`Productbild von ${muster.product}`} />
 
-                    <ExternalLink href={muster.manual}>Blick in die Anleitung <AiOutlineEye className='eyesIcon' /></ExternalLink>
+                    {muster.manual ? <ExternalLink href={muster.manual}>Blick in die Anleitung <AiOutlineEye className='eyesIcon' /></ExternalLink> : null}
                 </div>
                 <div className='SingleArtikelContent'>
                     <h3>{muster.product}</h3>
                     <h5>{`Größe: ${muster.size[0]} - ${muster.size[muster.size.length - 1]}`}</h5>
                     <div className='SingleArtikelDesigner'>
-                        <img src='https://storage.makerist.de/uploads/user/avatar/1363732/small_avatar_7a7d1794.jpg' alt="Avatar Designer" />
+                        {muster.avatar ? <img src={muster.avatar} alt="Avatar Designer" /> :
+                            <img src={avatarplaceholder} alt="Sa Na Logo" />}
                         <p>von {muster.designer}</p>
                     </div>
                     <button>Download</button>
