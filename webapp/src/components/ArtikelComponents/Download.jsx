@@ -5,7 +5,7 @@ import { ExternalLink } from 'react-external-link'
 function Download({ download }) {
 
     const [window, setWindow] = useState(false);
-    const [pwd, setPwd] = useState("1234");
+    const [pwd, setPwd] = useState("SaNaSewing");
     const [password, setPassword] = useState("");
 
     function pwdChange(event) {

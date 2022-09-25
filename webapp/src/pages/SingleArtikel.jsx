@@ -8,6 +8,7 @@ import avatarplaceholder from "../sorce/avatarplaceholder.jpeg"
 import pfeilRechts from '../sorce/pfeilRight.svg';
 import pfeilLinks from '../sorce/pfeilLeft.svg';
 import Download from '../components/ArtikelComponents/Download';
+import bank from '../datenbank/fakeDatenbank.js';
 
 
 function SingleArtikel() {
@@ -74,7 +75,7 @@ function SingleArtikel() {
                         <p>von {muster.designer}</p>
                     </div>
                     {muster.download ?
-                        <Download download={muster.download} />
+                        <Download download={bank[muster.download]} />
                         : null}
                 </div>
             </div>
