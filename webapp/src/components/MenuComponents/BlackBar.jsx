@@ -4,8 +4,7 @@ function BlackBar() {
     return (
         <div className='ccBlackBar'>
             <div className='BlackBarInfo'>
-                <p>hier kommt über Seite</p>
-                <p>hier kommt hilfe Seite</p>
+                <p>Dies ist eine 100% private Webseite</p>
             </div>
         </div>
     );

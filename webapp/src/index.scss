@@ -18,7 +18,7 @@
             margin: 0 auto;
             max-width: 80rem;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
         }
     }
 
@@ -121,6 +121,7 @@
 
             label {
                 margin-bottom: 5px;
+                cursor: pointer;
 
                 input[type=radio] {
                     display: none;
@@ -136,6 +137,7 @@
                 margin: 0px 0px 5px 10px;
                 display: flex;
                 flex-direction: column;
+                cursor: pointer;
             }
 
             .subcategoryAktiv {
@@ -419,6 +421,318 @@
             &:hover {
                 box-shadow: inset -2px -2px 2px 0 hsla(0, 0%, 100%, .5),
                     inset 2px 2px 2px 0 rgba(0, 0, 0, .5);
+            }
+        }
+    }
+}
+
+// Media-Screens
+
+@media screen and (max-width: 1546px) {
+    .pcArtikel {
+        width: 96%;
+    }
+}
+
+@media screen and (max-width: 1460px) {
+    .ccMenu {
+        .ccHeader {
+            .HeaderContent {
+                max-width: 70rem;
+            }
+
+        }
+
+        .ccNavTabBar {
+            .NavTabBarContent {
+                max-width: 75rem;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .ccMenu {
+        .ccHeader {
+            height: 100px;
+
+            .HeaderContent {
+                max-width: 55rem;
+
+                .HeaderLogo {
+                    left: calc(70% - 125px);
+                }
+
+                .HeaderLogoShadow {
+                    left: calc(70% - 125px);
+                }
+            }
+
+        }
+
+        .ccNavTabBar {
+            .NavTabBarContent {
+                max-width: 55rem;
+            }
+        }
+    }
+
+    .pcArtikel {
+        width: 95%;
+
+        .ArtikelContainer {
+            gap: 10px;
+
+            .ccSchnittmuster {
+                width: 280px;
+                height: 350px;
+
+                div {
+                    margin: 10px;
+                    height: 50px;
+
+                    h3 {
+                        font-size: 0.8rem;
+                    }
+
+                    h6 {
+                        font-size: 0.5rem;
+                    }
+                }
+
+                img {
+                    width: 280px;
+                    height: 280px;
+                }
+
+                .pdfIcon {
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1132px) {
+
+    .pcArtikel {
+
+        .ArtikelContainer {
+            gap: 10px;
+
+            .ccSchnittmuster {
+                width: 221px;
+                height: 330px;
+
+                img {
+                    width: 221px;
+                    height: 221px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .ccMenu {
+        .ccHeader {
+            height: 90px;
+
+            .HeaderContent {
+                max-width: 35rem;
+
+                .HeaderLogo {
+                    width: 200px;
+                    height: 60px;
+                    left: calc(85% - 125px);
+                }
+
+                .HeaderLogoShadow {
+                    width: 200px;
+                    height: 60px;
+                    left: calc(85% - 125px);
+                }
+            }
+        }
+
+        .ccNavTabBar {
+
+
+            .NavTabBarContent {
+                max-width: 35rem;
+            }
+        }
+    }
+
+    .pcArtikel {
+        width: 95%;
+        flex-direction: column;
+
+        .FilterContainer {
+            width: 100%;
+
+            .ccFilterStrip {
+                display: flex;
+                flex-direction: row;
+                gap: 10px;
+                position: relative;
+                font-size: 0.9rem;
+
+                label {
+                    margin-bottom: 15px;
+                }
+
+                .labelAktiv {
+                    margin-bottom: 60px;
+                }
+
+                .subcategoryFS {
+                    gap: 10px;
+                    flex-direction: row;
+                    position: absolute;
+                    top: 25px;
+                    left: 0px;
+                }
+            }
+        }
+
+        .ArtikelContainer {
+            justify-content: center;
+            width: 100%;
+
+            .ccSchnittmuster {
+                width: 200px;
+                height: 280px;
+
+                img {
+                    width: 200px;
+                    height: 200px;
+                }
+
+                .pdfIcon {
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .ccMenu {
+        .ccHeader {
+            height: 80px;
+
+            .HeaderContent {
+                max-width: 26rem;
+
+                .HeaderLogo {
+                    width: 150px;
+                    height: 50px;
+                    left: calc(90% - 125px);
+                }
+
+                .HeaderLogoShadow {
+                    width: 150px;
+                    height: 50px;
+                    left: calc(90% - 125px);
+                }
+            }
+
+        }
+
+        .ccNavTabBar {
+            height: 1.8rem;
+            line-height: 1.8rem;
+            font-size: .800rem;
+
+            .NavTabBarContent {
+                max-width: 25rem;
+            }
+        }
+    }
+
+    .ccFooter {
+        font-size: 0.9rem;
+        padding: 0.7rem;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .ccMenu {
+        .ccBlackBar {
+            height: 1rem;
+            line-height: 1rem;
+            font-size: .550rem;
+        }
+
+        .ccHeader {
+            height: 60px;
+
+            .HeaderContent {
+                max-width: 16rem;
+
+                .ccSearchBar {
+                    top: calc(50% - 12px);
+
+                    input {
+                        height: 25px;
+                        width: 200px;
+                        padding-left: 30px;
+                    }
+                }
+
+                .HeaderLogo {
+                    display: none;
+                }
+
+                .HeaderLogoShadow {
+                    display: none;
+                }
+            }
+
+        }
+
+        .ccNavTabBar {
+            height: 1.5rem;
+            line-height: 1.5rem;
+            font-size: .700rem;
+
+            .NavTabBarContent {
+                max-width: 17rem;
+            }
+        }
+    }
+
+    .pcArtikel {
+        .ArtikelContainer {
+
+            .ccSchnittmuster {
+                width: 100px;
+                height: 140px;
+
+                img {
+                    width: 100px;
+                    height: 100px;
+                }
+
+                div {
+                    margin: 3px;
+                    height: 30px;
+                    overflow: auto;
+
+                    h3 {
+                        font-size: 0.6rem;
+                    }
+
+                    h6 {
+                        font-size: 0.4rem;
+                    }
+                }
+
+                .pdfIcon {
+                    font-size: 10px;
+                }
             }
         }
     }

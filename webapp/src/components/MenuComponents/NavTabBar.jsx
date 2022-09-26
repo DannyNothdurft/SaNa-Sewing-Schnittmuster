@@ -21,7 +21,7 @@ function NavTabBar() {
         <div className='ccNavTabBar'>
 
             <div className='NavTabBarContent'>
-                <p>Wähle dein Größe: </p>
+                <p>Größe: </p>
                 <SizeKinderFilter />
                 <Link to='/' onClick={resetFilter}>Schnittmuster</Link>
             </div>
