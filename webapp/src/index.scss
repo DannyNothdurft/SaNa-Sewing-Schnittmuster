@@ -150,6 +150,13 @@
                 ;
             }
 
+            .trennung {
+                display: none;
+            }
+        }
+
+        .SubcatergoryMobil {
+            display: none;
         }
     }
 
@@ -678,6 +685,7 @@
                 display: flex;
                 flex-direction: row;
                 gap: 10px;
+
                 position: relative;
                 font-size: 0.9rem;
 
@@ -686,15 +694,42 @@
                 }
 
                 .labelAktiv {
-                    margin-bottom: 60px;
+                    margin-bottom: 10px;
                 }
 
                 .subcategoryFS {
-                    gap: 10px;
+                    display: none;
+                }
+            }
+
+            .SubcatergoryMobil {
+                display: block;
+
+                label {
+                    margin-bottom: 5px;
+                    cursor: pointer;
+
+                    input[type=radio] {
+                        display: none;
+                    }
+                }
+
+                .labelAktiv {
+                    color: #3259e8;
+                    font-weight: bold;
+                }
+
+                .subcategoryFS {
+                    display: flex;
                     flex-direction: row;
-                    position: absolute;
-                    top: 25px;
-                    left: 0px;
+                    flex-wrap: wrap;
+                    gap: 10px;
+                    cursor: pointer;
+                }
+
+                .subcategoryAktiv {
+                    color: #3259e8;
+                    ;
                 }
             }
         }

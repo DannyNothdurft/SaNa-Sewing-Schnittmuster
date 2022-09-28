@@ -5,6 +5,12 @@ import { useDispatch, useSelector } from 'react-redux';
 import { decrement, setGender, setSubcategory } from '../../reducer/schnittmusterSlice';
 import schnittData from '../../data/schnittmuster.json';
 
+// Components
+
+import SubcategoryDamen from './SubCategory/SubcategoryDamen';
+import SubcatergoryHerren from './SubCategory/SubcatergoryHerren';
+import SubcategoryKinder from './SubCategory/SubcategoryKinder';
+
 function FilterStrip() {
 
     const dispatch = useDispatch();
@@ -112,100 +118,56 @@ function FilterStrip() {
 
 
     return (
-        <div className='ccFilterStrip'>
-            <label onChange={onChangeValue} htmlFor="damen" className={gender === "damen" ? "labelAktiv" : null}>
-                <input className='genderRadio' type="radio" name="gender" id="damen" value="damen" />
-                Damen
-            </label>
-            {gender === "damen" ?
-                <div className='subcategoryFS' onChange={subcategoryValue}>
-                    <label htmlFor="oberteil" className={subCat === "oberteil" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="oberteil" value="oberteil" />
-                        Pullover / T-Shirt
-                    </label>
-                    <label htmlFor="jacke" className={subCat === "jacke" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="jacke" value="jacke" />
-                        Jacken
-                    </label>
-                    <label htmlFor="hose" className={subCat === "hose" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="hose" value="hose" />
-                        Hosen
-                    </label>
-                    <label htmlFor="kleid" className={subCat === "kleid" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="kleid" value="kleid" />
-                        Kleider
-                    </label>
-                    <label htmlFor="unterwaesche" className={subCat === "unterwaesche" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="unterwaesche" value="unterwaesche" />
-                        Unterwäsche
-                    </label>
-                </div>
-                : null}
-            <label onChange={onChangeValue} htmlFor="herren" className={gender === "herren" ? "labelAktiv" : null}>
-                <input className='genderRadio' type="radio" name="gender" id="herren" value="herren" />
-                Herren
-            </label>
-            {gender === "herren" ?
-                <div className='subcategoryFS' onChange={subcategoryValue}>
-                    <label htmlFor="oberteil" className={subCat === "oberteil" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="oberteil" value="oberteil" />
-                        Pullover / T-Shirt
-                    </label>
-                    <label htmlFor="jacke" className={subCat === "jacke" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="jacke" value="jacke" />
-                        Jacken
-                    </label>
-                    <label htmlFor="hose" className={subCat === "hose" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="hose" value="hose" />
-                        Hosen
-                    </label>
-                    <label htmlFor="unterwaesche" className={subCat === "unterwaesche" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="unterwaesche" value="unterwaesche" />
-                        Unterwäsche
-                    </label>
-                </div>
-                : null}
-            <label onChange={onChangeValue} htmlFor="kinder" className={gender === "kinder" ? "labelAktiv" : null}>
-                <input className='genderRadio' type="radio" name="gender" id="kinder" value="kinder" />
-                Kinder
-            </label>
-            {gender === "kinder" ?
-                <div className='subcategoryFS' onChange={subcategoryValue}>
-                    <label htmlFor="oberteil" className={subCat === "oberteil" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="oberteil" value="oberteil" />
-                        Pullover / T-Shirt
-                    </label>
-                    <label htmlFor="jacke" className={subCat === "jacke" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="jacke" value="jacke" />
-                        Jacken
-                    </label>
-                    <label htmlFor="hose" className={subCat === "hose" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="hose" value="hose" />
-                        Hosen
-                    </label>
-                    <label htmlFor="kleid" className={subCat === "kleid" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="kleid" value="kleid" />
-                        Kleider
-                    </label>
-                    <label htmlFor="accessoire" className={subCat === "accessoire" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="accessoire" value="accessoire" />
-                        Accessoires
-                    </label>
-                    <label htmlFor="unterwaesche" className={subCat === "unterwaesche" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="unterwaesche" value="unterwaesche" />
-                        Unterwäsche / Bodys
-                    </label>
-                    <label htmlFor="nachtwaesche" className={subCat === "nachtwaesche" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="nachtwaesche" value="nachtwaesche" />
-                        Nachtwäsche / Strampler
-                    </label>
-                    <label htmlFor="puppe" className={subCat === "puppe" ? "subcategoryAktiv" : null}>
-                        <input className='genderRadio' type="radio" name="subcatergory" id="puppe" value="puppe" />
-                        Kleidung für Puppen
-                    </label>
-                </div>
-                : null}
-        </div>
+        <>
+            <div className='ccFilterStrip'>
+                <label onChange={onChangeValue} htmlFor="damen" className={gender === "damen" ? "labelAktiv" : null}>
+                    <input className='genderRadio' type="radio" name="gender" id="damen" value="damen" />
+                    Damen
+                </label>
+                {gender === "damen" ?
+                    <SubcategoryDamen
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+                <label onChange={onChangeValue} htmlFor="herren" className={gender === "herren" ? "labelAktiv" : null}>
+                    <input className='genderRadio' type="radio" name="gender" id="herren" value="herren" />
+                    Herren
+                </label>
+                {gender === "herren" ?
+                    < SubcatergoryHerren
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+                <label onChange={onChangeValue} htmlFor="kinder" className={gender === "kinder" ? "labelAktiv" : null}>
+                    <input className='genderRadio' type="radio" name="gender" id="kinder" value="kinder" />
+                    Kinder
+                </label>
+                {gender === "kinder" ?
+                    < SubcategoryKinder
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+            </div>
+            <div className='SubcatergoryMobil'>
+                {gender === "damen" ?
+                    <SubcategoryDamen
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+                {gender === "herren" ?
+                    < SubcatergoryHerren
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+                {gender === "kinder" ?
+                    < SubcategoryKinder
+                        subcategoryValue={subcategoryValue}
+                        subCat={subCat} />
+                    : null}
+            </div>
+        </>
+
+
     );
 }
 
