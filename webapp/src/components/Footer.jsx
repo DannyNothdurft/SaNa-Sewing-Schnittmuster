@@ -1,8 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom'
 
 function Footer() {
     return (
-        <div className='ccFooter'>Impressum und so ein Quatsch</div>
+        <div className='ccFooter'>
+            <Link to="/impressum">Impressum</Link>
+            <Link to="/datenschutz">Datenschutz</Link>
+        </div>
     );
 }
 

@@ -5,6 +5,8 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Menu from "./Menu";
 import Artikel from "../pages/Artikel";
 import SingleArtikel from "../pages/SingleArtikel";
+import Impressum from "../pages/Impressum";
+import Datenschutz from "../pages/Datenschutz";
 import Footer from "./Footer";
 
 
@@ -16,6 +18,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Artikel />} />
         <Route path="/artikel/:id" element={<SingleArtikel />} />
+        <Route path="/impressum" element={<Impressum />} />
+        <Route path="/datenschutz" element={<Datenschutz />} />
       </Routes >
       <Footer />
     </BrowserRouter>
